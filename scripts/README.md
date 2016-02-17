@@ -1,3 +1,5 @@
+From the [origin repo](https://github.com/openshift/origin/blob/master/examples/jenkins/README.md)
+
 OpenShift 3 Jenkins Example
 =========================
 This sample walks through the process of starting up an OpenShift cluster and deploying a Jenkins Pod in it.
