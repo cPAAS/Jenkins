@@ -56,3 +56,6 @@ also this token can be tested by curl
 ```
 curl --header "Authorization: Bearer xxx" https://master1.ceyes.os:8443/oapi/v1/
 ```
+
+# study references
+About jenkins discussion: https://github.com/openshift/origin/issues/6954
